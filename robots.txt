@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://명지룸.kr/sitemap.xml
+Sitemap: https://the명지룸싸롱.kr/sitemap.xml
